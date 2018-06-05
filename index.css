@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+
+}
+.phone{
+	width: 290px;
+    height:630px;
+    border:10px solid #000;
+    border-radius:35px;
+    margin:20px auto;
+    background-image: url("IMG_7093.png"); 
+    background-size: 100%;
+}
+.head1{
+    height: 27px;
+    width: 150px;
+    background-color: black;
+    float: left;
+    border-radius: 0px 0px 19px 19px;
+    margin-left: 71px;
+
+}
+.listen{
+    height: 5px;
+    width: 52px;
+    border-radius: 20px;
+    float: left;
+    margin-left: 49px;
+    margin-top: 9px;
+    background: #1d1c1c;
+}
+.camera{
+    height: 8px;
+    width: 8px;
+    border-radius: 4px; 
+    margin-left: 113px;
+    margin-top: 8px;
+    background: #26275c82;
+
+}
+.footer{
+    height: 4px;
+    width: 110px;
+    float: bottom;
+}
